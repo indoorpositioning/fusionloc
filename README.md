@@ -38,13 +38,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Paper
 Available on [arxiv](https://arxiv.org/abs/2203.00080).
 
-[contributors-shield]: https://img.shields.io/github/contributors/indoorpositioning/indoorpositioning
-[contributors-url]: https://github.com/indoorpositioning/indoorpositioning/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/indoorpositioning/indoorpositioning
-[forks-url]: https://github.com/indoorpositioning/indoorpositioning/network/members
-[stars-shield]: https://img.shields.io/github/stars/indoorpositioning/indoorpositioning
-[stars-url]: https://github.com/indoorpositioning/indoorpositioning/stargazers
-[issues-shield]: https://img.shields.io/github/issues/indoorpositioning/indoorpositioning
-[issues-url]: https://github.com/indoorpositioning/indoorpositioning/issues
-[license-shield]: https://img.shields.io/github/license/indoorpositioning/indoorpositioning
-[license-url]: https://github.com/indoorpositioning/indoorpositioning/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/indoorpositioning/fusionloc
+[contributors-url]: https://github.com/indoorpositioning/fusionloc/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/indoorpositioning/fusionloc
+[forks-url]: https://github.com/indoorpositioning/fusionloc/network/members
+[stars-shield]: https://img.shields.io/github/stars/indoorpositioning/fusionloc
+[stars-url]: https://github.com/indoorpositioning/fusionloc/stargazers
+[issues-shield]: https://img.shields.io/github/issues/indoorpositioning/fusionloc
+[issues-url]: https://github.com/indoorpositioning/fusionloc/issues
+[license-shield]: https://img.shields.io/github/license/indoorpositioning/fusionloc
+[license-url]: https://github.com/indoorpositioning/fusionloc/master/LICENSE
